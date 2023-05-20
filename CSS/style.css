@@ -79,7 +79,7 @@ input, select, textarea {
 	display: inline-block;
 	text-decoration: none;
 	color: var(--black);
-	border-radius: 4px;
+	border-radius: 8px;
 }
 
 .btn-primary {
